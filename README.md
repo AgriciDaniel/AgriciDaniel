@@ -1,5 +1,5 @@
 <!--
-  Agrici Daniel — AI Marketing Systems Architect, Open Source Creator
+  Agrici Daniel - AI Marketing Systems Architect, Open Source Creator
   GitHub: https://github.com/AgriciDaniel
   Website: https://agricidaniel.com
   LinkedIn: https://linkedin.com/in/daniel-agrici
@@ -8,11 +8,11 @@
 
 <div align="center">
 
-  <img alt="Agrici Daniel — AI Marketing Systems Architect and Open Source Creator" width="200" src="https://avatars.githubusercontent.com/u/223140489?v=4" style="border-radius: 50%;" />
+  <img alt="Agrici Daniel -AI Marketing Systems Architect and Open Source Creator" width="200" src="https://avatars.githubusercontent.com/u/223140489?v=4" style="border-radius: 50%;" />
 
   <h1><a href="https://agricidaniel.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=0E75B6&center=true&vCenter=true&repeat=false&width=420&lines=Agrici+Daniel" alt="Agrici Daniel" /></a></h1>
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Marketing+Systems+Architect;6%2C000%2B+GitHub+Stars+%7C+1%2C100%2B+Forks;Building+Open-Source+Claude+Code+Skills;Replacing+%2410K%2Fmo+Agency+Work+with+Free+Tools;Rankenstein+Co-Founder" alt="Agrici Daniel — AI Marketing Systems Architect, open source Claude Code skills creator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Marketing+Systems+Architect;6%2C000%2B+GitHub+Stars+%7C+1%2C100%2B+Forks;Building+Open-Source+Claude+Code+Skills;Replacing+%2410K%2Fmo+Agency+Work+with+Free+Tools;Rankenstein+Co-Founder" alt="Agrici Daniel -AI Marketing Systems Architect, open source Claude Code skills creator" />
 
 </div>
 
@@ -28,7 +28,7 @@
 
 Self-taught AI marketing systems architect from Moldova. I build open-source Claude Code skills and AI-powered automation tools that replace $5-10K/month agency work with free, MIT-licensed software.
 
-My flagship projects — **claude-seo**, **claude-ads**, and **claude-blog** — are among the most-starred Claude Code skills on GitHub, used by thousands of developers and marketers worldwide. I also run the [AI Marketing Hub](https://www.skool.com/ai-marketing-hub) community (2,700+ members) and co-founded [Rankenstein](https://rankenstein.pro), an AI content engine.
+My flagship projects **claude-seo**, **claude-ads**, and **claude-blog** are among the most-starred Claude Code skills on GitHub, used by thousands of developers and marketers worldwide. I also run the [AI Marketing Hub](https://www.skool.com/ai-marketing-hub) community (2,700+ members) and co-founded [Rankenstein](https://rankenstein.pro), an AI content engine.
 
 When I'm not building tools, I'm creating tutorials on [YouTube](https://www.youtube.com/@AgriciDaniel) and sharing what I learn about AI-assisted marketing.
 
@@ -62,28 +62,28 @@ When I'm not building tools, I'm creating tutorials on [YouTube](https://www.you
 
 <div align="center">
   <a href="https://github.com/AgriciDaniel/banana-claude">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgriciDaniel&repo=banana-claude&theme=tokyonight&hide_border=true" alt="banana-claude — AI image generation Creative Director powered by Gemini" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgriciDaniel&cache_seconds=86400&repo=banana-claude&theme=tokyonight&hide_border=true" alt="banana-claude -AI image generation Creative Director powered by Gemini" />
   </a>
   <a href="https://github.com/AgriciDaniel/skill-forge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgriciDaniel&repo=skill-forge&theme=tokyonight&hide_border=true" alt="skill-forge — Ultimate Claude Code skill creator and architect" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgriciDaniel&cache_seconds=86400&repo=skill-forge&theme=tokyonight&hide_border=true" alt="skill-forge -Ultimate Claude Code skill creator and architect" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/AgriciDaniel/on-page-seo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgriciDaniel&repo=on-page-seo&theme=tokyonight&hide_border=true" alt="on-page-seo — On-Page SEO Analyzer for website performance" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgriciDaniel&cache_seconds=86400&repo=on-page-seo&theme=tokyonight&hide_border=true" alt="on-page-seo -On-Page SEO Analyzer for website performance" />
   </a>
   <a href="https://github.com/AgriciDaniel/claude-shorts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgriciDaniel&repo=claude-shorts&theme=tokyonight&hide_border=true" alt="claude-shorts — Longform-to-shortform video creator with AI scoring" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgriciDaniel&cache_seconds=86400&repo=claude-shorts&theme=tokyonight&hide_border=true" alt="claude-shorts -Longform-to-shortform video creator with AI scoring" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/AgriciDaniel/wp-mcp-ultimate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgriciDaniel&repo=wp-mcp-ultimate&theme=tokyonight&hide_border=true" alt="wp-mcp-ultimate — WordPress MCP server with 58 abilities" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgriciDaniel&cache_seconds=86400&repo=wp-mcp-ultimate&theme=tokyonight&hide_border=true" alt="wp-mcp-ultimate -WordPress MCP server with 58 abilities" />
   </a>
   <a href="https://github.com/AgriciDaniel/claude-video">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgriciDaniel&repo=claude-video&theme=tokyonight&hide_border=true" alt="claude-video — AI-powered video production suite for Claude Code" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgriciDaniel&cache_seconds=86400&repo=claude-video&theme=tokyonight&hide_border=true" alt="claude-video -AI-powered video production suite for Claude Code" />
   </a>
 </div>
 
@@ -136,8 +136,8 @@ When I'm not building tools, I'm creating tutorials on [YouTube](https://www.you
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgriciDaniel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Agrici Daniel GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgriciDaniel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Agrici Daniel most used programming languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgriciDaniel&cache_seconds=86400&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Agrici Daniel GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgriciDaniel&cache_seconds=86400&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Agrici Daniel most used programming languages" />
 </div>
 
 <div align="center">
