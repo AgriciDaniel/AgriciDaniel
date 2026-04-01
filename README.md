@@ -65,14 +65,6 @@ When I'm not building tools, I'm creating tutorials on [YouTube](https://www.you
 
 ---
 
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AgriciDaniel&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Agrici Daniel GitHub trophies" />
-</div>
-
----
-
 ## Tech Stack
 
 ### AI & Agents
