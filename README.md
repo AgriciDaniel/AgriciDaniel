@@ -46,45 +46,21 @@ When I'm not building tools, I'm creating tutorials on [YouTube](https://www.you
 
 </div>
 
-<div align="center">
-  <a href="https://star-history.com/#AgriciDaniel/claude-seo&AgriciDaniel/claude-ads&AgriciDaniel/claude-blog&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=AgriciDaniel/claude-seo,AgriciDaniel/claude-ads,AgriciDaniel/claude-blog&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=AgriciDaniel/claude-seo,AgriciDaniel/claude-ads,AgriciDaniel/claude-blog&type=Date" />
-      <img alt="Star history chart for claude-seo, claude-ads, and claude-blog" src="https://api.star-history.com/svg?repos=AgriciDaniel/claude-seo,AgriciDaniel/claude-ads,AgriciDaniel/claude-blog&type=Date" width="700" />
-    </picture>
-  </a>
-</div>
-
 ---
 
 ## More Projects
 
 <div align="center">
-  <a href="https://github.com/AgriciDaniel/banana-claude">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgriciDaniel&cache_seconds=86400&repo=banana-claude&theme=tokyonight&hide_border=true" alt="banana-claude -AI image generation Creative Director powered by Gemini" />
-  </a>
-  <a href="https://github.com/AgriciDaniel/skill-forge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgriciDaniel&cache_seconds=86400&repo=skill-forge&theme=tokyonight&hide_border=true" alt="skill-forge -Ultimate Claude Code skill creator and architect" />
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/AgriciDaniel/on-page-seo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgriciDaniel&cache_seconds=86400&repo=on-page-seo&theme=tokyonight&hide_border=true" alt="on-page-seo -On-Page SEO Analyzer for website performance" />
-  </a>
-  <a href="https://github.com/AgriciDaniel/claude-shorts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgriciDaniel&cache_seconds=86400&repo=claude-shorts&theme=tokyonight&hide_border=true" alt="claude-shorts -Longform-to-shortform video creator with AI scoring" />
-  </a>
-</div>
+| Project | What it does | |
+|:--------|:-----------|:---:|
+| **[banana-claude](https://github.com/AgriciDaniel/banana-claude)** | AI image generation Creative Director powered by Gemini | [![Stars](https://img.shields.io/github/stars/AgriciDaniel/banana-claude?style=flat-square&color=FFD700)](https://github.com/AgriciDaniel/banana-claude) |
+| **[on-page-seo](https://github.com/AgriciDaniel/on-page-seo)** | On-Page SEO Analyzer for website performance | [![Stars](https://img.shields.io/github/stars/AgriciDaniel/on-page-seo?style=flat-square&color=FFD700)](https://github.com/AgriciDaniel/on-page-seo) |
+| **[claude-shorts](https://github.com/AgriciDaniel/claude-shorts)** | Longform-to-shortform video creator with AI scoring | [![Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-shorts?style=flat-square&color=FFD700)](https://github.com/AgriciDaniel/claude-shorts) |
+| **[skill-forge](https://github.com/AgriciDaniel/skill-forge)** | Ultimate Claude Code skill creator and architect | [![Stars](https://img.shields.io/github/stars/AgriciDaniel/skill-forge?style=flat-square&color=FFD700)](https://github.com/AgriciDaniel/skill-forge) |
+| **[wp-mcp-ultimate](https://github.com/AgriciDaniel/wp-mcp-ultimate)** | WordPress MCP server with 58 abilities | [![Stars](https://img.shields.io/github/stars/AgriciDaniel/wp-mcp-ultimate?style=flat-square&color=FFD700)](https://github.com/AgriciDaniel/wp-mcp-ultimate) |
+| **[claude-video](https://github.com/AgriciDaniel/claude-video)** | AI-powered video production suite for Claude Code | [![Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-video?style=flat-square&color=FFD700)](https://github.com/AgriciDaniel/claude-video) |
 
-<div align="center">
-  <a href="https://github.com/AgriciDaniel/wp-mcp-ultimate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgriciDaniel&cache_seconds=86400&repo=wp-mcp-ultimate&theme=tokyonight&hide_border=true" alt="wp-mcp-ultimate -WordPress MCP server with 58 abilities" />
-  </a>
-  <a href="https://github.com/AgriciDaniel/claude-video">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AgriciDaniel&cache_seconds=86400&repo=claude-video&theme=tokyonight&hide_border=true" alt="claude-video -AI-powered video production suite for Claude Code" />
-  </a>
 </div>
 
 ---
@@ -134,11 +110,6 @@ When I'm not building tools, I'm creating tutorials on [YouTube](https://www.you
 ---
 
 ## GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgriciDaniel&cache_seconds=86400&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Agrici Daniel GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgriciDaniel&cache_seconds=86400&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Agrici Daniel most used programming languages" />
-</div>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
