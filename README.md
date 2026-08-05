@@ -29,7 +29,7 @@
 
 Self-taught AI marketing systems architect. I build open-source Claude Code skills and AI-powered automation tools that replace $5-10K/month agency work with free, MIT-licensed software.
 
-My flagship projects **claude-seo**, **claude-ads**, and **claude-blog** are among the most-starred Claude Code skills on GitHub, used by thousands of developers and marketers worldwide. I also run the [AI Marketing Hub](https://www.skool.com/ai-marketing-hub) community (4,900+ members).
+My flagship projects **claude-seo**, **claude-ads**, and **claude-blog** are among the most-starred Claude Code skills on GitHub, used by thousands of developers and marketers worldwide. I also run the free [AI Marketing Hub](https://www.skool.com/ai-marketing-hub) community (4,900+ members) and [AI Marketing Hub Pro](https://www.skool.com/ai-marketing-hub-pro).
 
 When I'm not building tools, I'm creating tutorials on [YouTube](https://www.youtube.com/@AgriciDaniel) and sharing what I learn about AI-assisted marketing.
 
@@ -71,36 +71,22 @@ Everything here is MIT licensed. Manual and Windows installs are documented in e
 
 ---
 
-## More Projects
-
-<div align="center">
-
-| Project | What it does | |
-|:--------|:-----------|:---:|
-| **[banana-claude](https://github.com/AgriciDaniel/banana-claude)** | AI image generation Creative Director powered by Gemini | [![Stars](https://img.shields.io/github/stars/AgriciDaniel/banana-claude?style=flat-square&color=FFD700)](https://github.com/AgriciDaniel/banana-claude) |
-| **[on-page-seo](https://github.com/AgriciDaniel/on-page-seo)** | On-Page SEO Analyzer for website performance | [![Stars](https://img.shields.io/github/stars/AgriciDaniel/on-page-seo?style=flat-square&color=FFD700)](https://github.com/AgriciDaniel/on-page-seo) |
-| **[claude-shorts](https://github.com/AgriciDaniel/claude-shorts)** | Longform-to-shortform video creator with AI scoring | [![Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-shorts?style=flat-square&color=FFD700)](https://github.com/AgriciDaniel/claude-shorts) |
-| **[skill-forge](https://github.com/AgriciDaniel/skill-forge)** | Ultimate Claude Code skill creator and architect | [![Stars](https://img.shields.io/github/stars/AgriciDaniel/skill-forge?style=flat-square&color=FFD700)](https://github.com/AgriciDaniel/skill-forge) |
-| **[wp-mcp-ultimate](https://github.com/AgriciDaniel/wp-mcp-ultimate)** | WordPress MCP server with 58 abilities | [![Stars](https://img.shields.io/github/stars/AgriciDaniel/wp-mcp-ultimate?style=flat-square&color=FFD700)](https://github.com/AgriciDaniel/wp-mcp-ultimate) |
-| **[claude-video](https://github.com/AgriciDaniel/claude-video)** | AI-powered video production suite for Claude Code | [![Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-video?style=flat-square&color=FFD700)](https://github.com/AgriciDaniel/claude-video) |
-
-</div>
-
----
-
 ## Tech Stack
 
 ### AI & Agents
 <p align="left">
   <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logoColor=white" alt="OpenAI Codex" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
 </p>
 
 ### Marketing & SEO
 <p align="left">
   <img src="https://img.shields.io/badge/DataForSEO-0066FF?style=for-the-badge&logoColor=white" alt="DataForSEO" />
+  <img src="https://img.shields.io/badge/Firecrawl-FF6B35?style=for-the-badge&logoColor=white" alt="Firecrawl" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads" />
@@ -110,7 +96,7 @@ Everything here is MIT licensed. Manual and Windows installs are documented in e
 ### Video & Media
 <p align="left">
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg" />
-  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" />
+  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logoColor=white" alt="Whisper" />
   <img src="https://img.shields.io/badge/Remotion-000000?style=for-the-badge&logoColor=white" alt="Remotion" />
 </p>
 
@@ -130,5 +116,6 @@ Everything here is MIT licensed. Manual and Windows installs are documented in e
   <a href="https://agricidaniel.com"><img src="https://img.shields.io/badge/Website-agricidaniel.com-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal website" /></a>
   <a href="https://linkedin.com/in/daniel-agrici"><img src="https://img.shields.io/badge/LinkedIn-daniel--agrici-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/@AgriciDaniel"><img src="https://img.shields.io/badge/YouTube-@AgriciDaniel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.skool.com/ai-marketing-hub"><img src="https://img.shields.io/badge/Skool-AI%20Marketing%20Hub-5865F2?style=for-the-badge&logoColor=white" alt="Skool community" /></a>
+  <a href="https://www.skool.com/ai-marketing-hub"><img src="https://img.shields.io/badge/Free%20Community-AI%20Marketing%20Hub-5865F2?style=for-the-badge&logoColor=white" alt="AI Marketing Hub, free Skool community" /></a>
+  <a href="https://www.skool.com/ai-marketing-hub-pro"><img src="https://img.shields.io/badge/Pro-AI%20Marketing%20Hub%20Pro-6ECD4C?style=for-the-badge&logoColor=white" alt="AI Marketing Hub Pro" /></a>
 </p>
