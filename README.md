@@ -8,16 +8,17 @@
 
 <div align="center">
 
-  <img alt="Agrici Daniel -AI Marketing Systems Architect and Open Source Creator" width="200" src="https://avatars.githubusercontent.com/u/223140489?v=4" style="border-radius: 50%;" />
-
-  <h1><a href="https://agricidaniel.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=0E75B6&center=true&vCenter=true&repeat=false&width=420&lines=Agrici+Daniel" alt="Agrici Daniel" /></a></h1>
-  <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+Marketing+Systems+Architect;6%2C000%2B+GitHub+Stars+%7C+1%2C100%2B+Forks;Building+Open-Source+Claude+Code+Skills;Replacing+%2410K%2Fmo+Agency+Work+with+Free+Tools;Rankenstein+Co-Founder" alt="Agrici Daniel -AI Marketing Systems Architect, open source Claude Code skills creator" />
+  <a href="https://agricidaniel.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+      <img src="./assets/header-dark.svg" width="880" alt="Agrici Daniel - AI Marketing Systems Architect" />
+    </picture>
+  </a>
 
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AgriciDaniel&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Agrici Daniel GitHub profile views" />
   <img src="https://img.shields.io/github/followers/AgriciDaniel?label=Followers&style=for-the-badge&color=blue" alt="Agrici Daniel GitHub followers" />
   <img src="https://img.shields.io/github/stars/AgriciDaniel?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Agrici Daniel total GitHub stars" />
 </p>
@@ -28,9 +29,31 @@
 
 Self-taught AI marketing systems architect from Moldova. I build open-source Claude Code skills and AI-powered automation tools that replace $5-10K/month agency work with free, MIT-licensed software.
 
-My flagship projects **claude-seo**, **claude-ads**, and **claude-blog** are among the most-starred Claude Code skills on GitHub, used by thousands of developers and marketers worldwide. I also run the [AI Marketing Hub](https://www.skool.com/ai-marketing-hub) community (2,700+ members) and co-founded [Rankenstein](https://rankenstein.pro), an AI content engine.
+My flagship projects **claude-seo**, **claude-ads**, and **claude-blog** are among the most-starred Claude Code skills on GitHub, used by thousands of developers and marketers worldwide. I also run the [AI Marketing Hub](https://www.skool.com/ai-marketing-hub) community (2,700+ members).
 
 When I'm not building tools, I'm creating tutorials on [YouTube](https://www.youtube.com/@AgriciDaniel) and sharing what I learn about AI-assisted marketing.
+
+---
+
+## Quickstart
+
+Install any flagship skill from inside Claude Code (1.0.33+), then restart:
+
+```text
+# SEO
+/plugin marketplace add AgriciDaniel/claude-seo
+/plugin install claude-seo@agricidaniel-claude-seo
+
+# Paid advertising
+/plugin marketplace add AgriciDaniel/claude-ads
+/plugin install claude-ads@ai-marketing-hub-claude-ads
+
+# Blog content
+/plugin marketplace add AgriciDaniel/claude-blog
+/plugin install claude-blog@agricidaniel-blog
+```
+
+Everything here is MIT licensed. Manual and Windows installs are documented in each repo.
 
 ---
 
@@ -101,22 +124,6 @@ When I'm not building tools, I'm creating tutorials on [YouTube](https://www.you
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=AgriciDaniel&theme=tokyonight&hide_border=true&card_width=500" alt="Agrici Daniel GitHub streak" />
-  </a>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AgriciDaniel&theme=tokyo-night&hide_border=true&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AgriciDaniel&theme=minimal&hide_border=true&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AgriciDaniel&theme=tokyo-night&hide_border=true&area=true" alt="Agrici Daniel GitHub contribution activity graph" width="100%" />
-</picture>
-
----
-
 ## Connect
 
 <p align="center">
@@ -124,5 +131,4 @@ When I'm not building tools, I'm creating tutorials on [YouTube](https://www.you
   <a href="https://linkedin.com/in/daniel-agrici"><img src="https://img.shields.io/badge/LinkedIn-daniel--agrici-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/@AgriciDaniel"><img src="https://img.shields.io/badge/YouTube-@AgriciDaniel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.skool.com/ai-marketing-hub"><img src="https://img.shields.io/badge/Skool-AI%20Marketing%20Hub-5865F2?style=for-the-badge&logoColor=white" alt="Skool community" /></a>
-  <a href="https://rankenstein.pro"><img src="https://img.shields.io/badge/Rankenstein-AI%20Content%20Engine-FF6B35?style=for-the-badge&logoColor=white" alt="Rankenstein" /></a>
 </p>
