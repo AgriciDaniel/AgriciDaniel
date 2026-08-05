@@ -27,7 +27,7 @@
 
 ## About Me
 
-Self-taught AI marketing systems architect from Moldova. I build open-source Claude Code skills and AI-powered automation tools that replace $5-10K/month agency work with free, MIT-licensed software.
+Self-taught AI marketing systems architect. I build open-source Claude Code skills and AI-powered automation tools that replace $5-10K/month agency work with free, MIT-licensed software.
 
 My flagship projects **claude-seo**, **claude-ads**, and **claude-blog** are among the most-starred Claude Code skills on GitHub, used by thousands of developers and marketers worldwide. I also run the [AI Marketing Hub](https://www.skool.com/ai-marketing-hub) community (2,700+ members).
 
