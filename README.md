@@ -29,7 +29,7 @@
 
 AI marketing systems architect. I build open-source Claude Code skills and AI-powered automation tools that replace $5-10K/month agency work with free, MIT-licensed software.
 
-My flagship projects **claude-seo**, **claude-ads**, and **claude-blog** are among the most-starred Claude Code skills on GitHub, used by thousands of developers and marketers worldwide. I also run the free [AI Marketing Hub](https://www.skool.com/ai-marketing-hub) community (4,900+ members) and [AI Marketing Hub Pro](https://www.skool.com/ai-marketing-hub-pro).
+My flagship projects **claude-seo**, **claude-ads**, and **claude-blog** are among the most-starred Claude Code skills on GitHub, used by thousands of developers and marketers worldwide. I also run the free [AI Marketing Hub](https://www.skool.com/ai-marketing-hub) community (5,700+ members) and [AI Marketing Hub Pro](https://www.skool.com/ai-marketing-hub-pro).
 
 When I'm not building tools, I'm creating tutorials on [YouTube](https://www.youtube.com/@AgriciDaniel) and sharing what I learn about AI-assisted marketing.
 
