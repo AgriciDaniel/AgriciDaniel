@@ -27,7 +27,7 @@
 </p>
 
 <details>
-<summary><picture><img src="./assets/divider-party.svg" width="100%" alt="The party fights through mobs to the invoice boss. Click to join the party." /></picture></summary>
+<summary><picture><img src="./assets/divider-party.svg" width="100%" alt="Search quest: the party beats spam, a 404 and an AI Overview, then the Google core update, ticking off tasks and climbing to rank 1. Click to join the party." /></picture></summary>
 <br />
 <a href="https://www.skool.com/ai-marketing-hub"><img src="./assets/party-recruit.svg" width="100%" alt="Training grounds: AI Marketing Hub members practise SEO, ads and AI search. Free on Skool, 5,900+ members." /></a>
 
