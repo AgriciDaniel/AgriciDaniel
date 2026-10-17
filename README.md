@@ -27,9 +27,9 @@
 </p>
 
 <details>
-<summary><picture><img src="./assets/divider-party.svg" width="100%" alt="Recruitment run: the party picks up new members on the way to the AI Marketing Hub guild hall. Press to join the party." /></picture></summary>
+<summary><picture><img src="./assets/divider-party.svg" width="100%" alt="Quest run: the party beats Bounce Rate, the 404 Ghost and Ad Fatigue, survives an algorithm update and levels up. Press to join the party." /></picture></summary>
 <br />
-<a href="https://www.skool.com/ai-marketing-hub"><img src="./assets/party-recruit.svg" width="100%" alt="Party recruiting: AI Marketing Hub, free on Skool, 5,900+ members" /></a>
+<a href="https://www.skool.com/ai-marketing-hub"><img src="./assets/party-recruit.svg" width="100%" alt="Training grounds: AI Marketing Hub members practise SEO, ads and AI search. Free on Skool, 5,900+ members." /></a>
 
 **Join the party.** The free [AI Marketing Hub](https://www.skool.com/ai-marketing-hub) on Skool: 5,900+ members building with Claude Code. Ask questions, share workflows, get help when a skill breaks.
 
