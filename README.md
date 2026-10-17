@@ -33,18 +33,16 @@ New to it? Start with my [Claude Code tutorial videos on YouTube](https://www.yo
       <a href="https://github.com/AgriciDaniel/claude-seo"><img src="./assets/card-claude-seo.svg" width="100%" alt="claude-seo, the Claude Code SEO skill and AI SEO tool" /></a>
       <p><b><a href="https://github.com/AgriciDaniel/claude-seo">claude-seo</a></b>: AI SEO tool for Claude Code. Technical SEO audits, local SEO, ecommerce SEO, schema markup, E-E-A-T and backlinks, plus GEO for ChatGPT, Perplexity and Google AI Overviews.</p>
       <p>
-        <a href="https://github.com/AgriciDaniel/claude-seo"><img src="https://img.shields.io/github/stars/AgriciDaniel/claude-seo?style=flat-square&labelColor=1a1c2c&color=3b5dc9" alt="claude-seo GitHub stars" /></a>
+        <a href="https://github.com/AgriciDaniel/claude-seo/stargazers"><img src="https://img.shields.io/github/stars/AgriciDaniel/claude-seo?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3IDciIHNoYXBlLXJlbmRlcmluZz0iY3Jpc3BFZGdlcyIgZmlsbD0iIzFhMWMyYyI%2BPHBhdGggZD0iTTMgMGgxdjFoLTF6TTIgMWgxdjFoLTF6TTMgMWgxdjFoLTF6TTQgMWgxdjFoLTF6TTAgMmgxdjFoLTF6TTEgMmgxdjFoLTF6TTIgMmgxdjFoLTF6TTMgMmgxdjFoLTF6TTQgMmgxdjFoLTF6TTUgMmgxdjFoLTF6TTYgMmgxdjFoLTF6TTEgM2gxdjFoLTF6TTIgM2gxdjFoLTF6TTMgM2gxdjFoLTF6TTQgM2gxdjFoLTF6TTUgM2gxdjFoLTF6TTIgNGgxdjFoLTF6TTMgNGgxdjFoLTF6TTQgNGgxdjFoLTF6TTEgNWgxdjFoLTF6TTIgNWgxdjFoLTF6TTQgNWgxdjFoLTF6TTUgNWgxdjFoLTF6TTAgNmgxdjFoLTF6TTEgNmgxdjFoLTF6TTUgNmgxdjFoLTF6TTYgNmgxdjFoLTF6Ii8%2BPC9zdmc%2B&label=stars&labelColor=ffcd75&color=ffcd75" alt="claude-seo GitHub stars" /></a>
         <a href="https://github.com/AgriciDaniel/claude-seo/fork"><img src="https://img.shields.io/github/forks/AgriciDaniel/claude-seo?style=flat-square&labelColor=1a1c2c&color=3b5dc9" alt="claude-seo forks" /></a>
-        <a href="https://agricidaniel.com/blog/claude-code-seo-stack">Claude Code SEO stack deep dive</a>
       </p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AgriciDaniel/claude-ads"><img src="./assets/card-claude-ads.svg" width="100%" alt="claude-ads, the Claude Code skill for Google Ads and Meta ads audits" /></a>
       <p><b><a href="https://github.com/AgriciDaniel/claude-ads">claude-ads</a></b>: Google Ads audit and Meta ads audit (Facebook ads and Instagram), plus YouTube, LinkedIn, TikTok, Microsoft, Amazon and 5 more. 12 ad platforms, scored reports with sources.</p>
       <p>
-        <a href="https://github.com/AgriciDaniel/claude-ads"><img src="https://img.shields.io/github/stars/AgriciDaniel/claude-ads?style=flat-square&labelColor=1a1c2c&color=3b5dc9" alt="claude-ads GitHub stars" /></a>
+        <a href="https://github.com/AgriciDaniel/claude-ads/stargazers"><img src="https://img.shields.io/github/stars/AgriciDaniel/claude-ads?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3IDciIHNoYXBlLXJlbmRlcmluZz0iY3Jpc3BFZGdlcyIgZmlsbD0iIzFhMWMyYyI%2BPHBhdGggZD0iTTMgMGgxdjFoLTF6TTIgMWgxdjFoLTF6TTMgMWgxdjFoLTF6TTQgMWgxdjFoLTF6TTAgMmgxdjFoLTF6TTEgMmgxdjFoLTF6TTIgMmgxdjFoLTF6TTMgMmgxdjFoLTF6TTQgMmgxdjFoLTF6TTUgMmgxdjFoLTF6TTYgMmgxdjFoLTF6TTEgM2gxdjFoLTF6TTIgM2gxdjFoLTF6TTMgM2gxdjFoLTF6TTQgM2gxdjFoLTF6TTUgM2gxdjFoLTF6TTIgNGgxdjFoLTF6TTMgNGgxdjFoLTF6TTQgNGgxdjFoLTF6TTEgNWgxdjFoLTF6TTIgNWgxdjFoLTF6TTQgNWgxdjFoLTF6TTUgNWgxdjFoLTF6TTAgNmgxdjFoLTF6TTEgNmgxdjFoLTF6TTUgNmgxdjFoLTF6TTYgNmgxdjFoLTF6Ii8%2BPC9zdmc%2B&label=stars&labelColor=ffcd75&color=ffcd75" alt="claude-ads GitHub stars" /></a>
         <a href="https://github.com/AgriciDaniel/claude-ads/fork"><img src="https://img.shields.io/github/forks/AgriciDaniel/claude-ads?style=flat-square&labelColor=1a1c2c&color=3b5dc9" alt="claude-ads forks" /></a>
-        <a href="https://agricidaniel.com/blog/claude-code-ad-agency">claude-ads full breakdown</a>
       </p>
     </td>
   </tr>
@@ -53,26 +51,25 @@ New to it? Start with my [Claude Code tutorial videos on YouTube](https://www.yo
       <a href="https://github.com/AgriciDaniel/claude-blog"><img src="./assets/card-claude-blog.svg" width="100%" alt="claude-blog, the AI blog writer for Claude Code" /></a>
       <p><b><a href="https://github.com/AgriciDaniel/claude-blog">claude-blog</a></b>: AI blog writer for Claude Code. Writes, rewrites and audits blog posts that rank on Google and get cited in AI search. E-E-A-T, schema and GEO checks built in.</p>
       <p>
-        <a href="https://github.com/AgriciDaniel/claude-blog"><img src="https://img.shields.io/github/stars/AgriciDaniel/claude-blog?style=flat-square&labelColor=1a1c2c&color=3b5dc9" alt="claude-blog GitHub stars" /></a>
+        <a href="https://github.com/AgriciDaniel/claude-blog/stargazers"><img src="https://img.shields.io/github/stars/AgriciDaniel/claude-blog?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3IDciIHNoYXBlLXJlbmRlcmluZz0iY3Jpc3BFZGdlcyIgZmlsbD0iIzFhMWMyYyI%2BPHBhdGggZD0iTTMgMGgxdjFoLTF6TTIgMWgxdjFoLTF6TTMgMWgxdjFoLTF6TTQgMWgxdjFoLTF6TTAgMmgxdjFoLTF6TTEgMmgxdjFoLTF6TTIgMmgxdjFoLTF6TTMgMmgxdjFoLTF6TTQgMmgxdjFoLTF6TTUgMmgxdjFoLTF6TTYgMmgxdjFoLTF6TTEgM2gxdjFoLTF6TTIgM2gxdjFoLTF6TTMgM2gxdjFoLTF6TTQgM2gxdjFoLTF6TTUgM2gxdjFoLTF6TTIgNGgxdjFoLTF6TTMgNGgxdjFoLTF6TTQgNGgxdjFoLTF6TTEgNWgxdjFoLTF6TTIgNWgxdjFoLTF6TTQgNWgxdjFoLTF6TTUgNWgxdjFoLTF6TTAgNmgxdjFoLTF6TTEgNmgxdjFoLTF6TTUgNmgxdjFoLTF6TTYgNmgxdjFoLTF6Ii8%2BPC9zdmc%2B&label=stars&labelColor=ffcd75&color=ffcd75" alt="claude-blog GitHub stars" /></a>
         <a href="https://github.com/AgriciDaniel/claude-blog/fork"><img src="https://img.shields.io/github/forks/AgriciDaniel/claude-blog?style=flat-square&labelColor=1a1c2c&color=3b5dc9" alt="claude-blog forks" /></a>
-        <a href="https://agricidaniel.com/blog/claude-code-blog-writer">Claude Code blog writer walkthrough</a>
       </p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AgriciDaniel/claude-obsidian"><img src="./assets/card-claude-obsidian.svg" width="100%" alt="claude-obsidian, an AI second brain for Obsidian and Claude Code" /></a>
       <p><b><a href="https://github.com/AgriciDaniel/claude-obsidian">claude-obsidian</a></b>: AI second brain for Obsidian and Claude Code. Drop in any source. Claude reads it, links it and files it into a knowledge graph of plain Markdown you own.</p>
       <p>
-        <a href="https://github.com/AgriciDaniel/claude-obsidian"><img src="https://img.shields.io/github/stars/AgriciDaniel/claude-obsidian?style=flat-square&labelColor=1a1c2c&color=3b5dc9" alt="claude-obsidian GitHub stars" /></a>
+        <a href="https://github.com/AgriciDaniel/claude-obsidian/stargazers"><img src="https://img.shields.io/github/stars/AgriciDaniel/claude-obsidian?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3IDciIHNoYXBlLXJlbmRlcmluZz0iY3Jpc3BFZGdlcyIgZmlsbD0iIzFhMWMyYyI%2BPHBhdGggZD0iTTMgMGgxdjFoLTF6TTIgMWgxdjFoLTF6TTMgMWgxdjFoLTF6TTQgMWgxdjFoLTF6TTAgMmgxdjFoLTF6TTEgMmgxdjFoLTF6TTIgMmgxdjFoLTF6TTMgMmgxdjFoLTF6TTQgMmgxdjFoLTF6TTUgMmgxdjFoLTF6TTYgMmgxdjFoLTF6TTEgM2gxdjFoLTF6TTIgM2gxdjFoLTF6TTMgM2gxdjFoLTF6TTQgM2gxdjFoLTF6TTUgM2gxdjFoLTF6TTIgNGgxdjFoLTF6TTMgNGgxdjFoLTF6TTQgNGgxdjFoLTF6TTEgNWgxdjFoLTF6TTIgNWgxdjFoLTF6TTQgNWgxdjFoLTF6TTUgNWgxdjFoLTF6TTAgNmgxdjFoLTF6TTEgNmgxdjFoLTF6TTUgNmgxdjFoLTF6TTYgNmgxdjFoLTF6Ii8%2BPC9zdmc%2B&label=stars&labelColor=ffcd75&color=ffcd75" alt="claude-obsidian GitHub stars" /></a>
         <a href="https://github.com/AgriciDaniel/claude-obsidian/fork"><img src="https://img.shields.io/github/forks/AgriciDaniel/claude-obsidian?style=flat-square&labelColor=1a1c2c&color=3b5dc9" alt="claude-obsidian forks" /></a>
-        <a href="https://agricidaniel.com/blog/claude-obsidian-ai-second-brain">Obsidian AI second brain deep dive</a>
       </p>
     </td>
   </tr>
 </table>
 
 <details>
-<summary><b>More open-source AI marketing tools</b></summary>
+<summary><picture><img src="./assets/loot-chest.svg" width="95%" alt="More open-source AI marketing tools: open the chest" /></picture></summary>
 <br />
+<img src="./assets/loot-open.svg" width="100%" alt="Items found: 9 more open-source AI marketing tools" />
 
 - **[codex-seo](https://github.com/AgriciDaniel/codex-seo)**: Codex-first SEO skill suite. 26 workflows and 24 agents, with DataForSEO, Gemini, Google and Firecrawl integrations.
 - **[banana-claude](https://github.com/AgriciDaniel/banana-claude)**: AI image generation skill for Claude Code, powered by Gemini.
@@ -91,26 +88,34 @@ New to it? Start with my [Claude Code tutorial videos on YouTube](https://www.yo
 Pick the one that sounds like you.
 
 <details>
-<summary><picture><img src="./assets/class-knight.svg" height="28" alt="" /></picture> <b>Knight</b>: you run an SEO agency</summary>
+<summary><picture><img src="./assets/class-knight-pick.svg" width="95%" alt="Knight: you run an SEO agency. Click to choose." /></picture></summary>
 <br />
+<img src="./assets/class-knight-chosen.svg" width="100%" alt="Knight chosen" />
+
 Audit client sites in minutes. Run <code>/seo audit</code> with <a href="https://github.com/AgriciDaniel/claude-seo">claude-seo</a> for SEO and GEO, and <code>/ads audit all</code> with <a href="https://github.com/AgriciDaniel/claude-ads">claude-ads</a> for paid clients. Both hand you a prioritized report.
 </details>
 
 <details>
-<summary><picture><img src="./assets/class-merchant.svg" height="28" alt="" /></picture> <b>Merchant</b>: you own a business</summary>
+<summary><picture><img src="./assets/class-merchant-pick.svg" width="95%" alt="Merchant: you own a business. Click to choose." /></picture></summary>
 <br />
+<img src="./assets/class-merchant-chosen.svg" width="100%" alt="Merchant chosen" />
+
 Want customers from Google and ChatGPT? Run <code>/seo audit</code> on your site, then <code>/seo local</code> for Google Maps. Fix the top of the list first.
 </details>
 
 <details>
-<summary><picture><img src="./assets/class-herald.svg" height="28" alt="" /></picture> <b>Herald</b>: you are a marketer</summary>
+<summary><picture><img src="./assets/class-herald-pick.svg" width="95%" alt="Herald: you are a marketer. Click to choose." /></picture></summary>
 <br />
+<img src="./assets/class-herald-chosen.svg" width="100%" alt="Herald chosen" />
+
 Content and ads without the busywork. <a href="https://github.com/AgriciDaniel/claude-blog">claude-blog</a> writes posts that rank (<code>/blog write</code>). claude-ads checks your Google Ads and Meta ads.
 </details>
 
 <details>
-<summary><picture><img src="./assets/class-sorcerer.svg" height="28" alt="" /></picture> <b>Sorcerer</b>: you build things</summary>
+<summary><picture><img src="./assets/class-sorcerer-pick.svg" width="95%" alt="Sorcerer: you build things. Click to choose." /></picture></summary>
 <br />
+<img src="./assets/class-sorcerer-chosen.svg" width="100%" alt="Sorcerer chosen" />
+
 Everything here is MIT. Fork it, read how the skills are built, and start an AI second brain with <a href="https://github.com/AgriciDaniel/claude-obsidian">claude-obsidian</a>.
 </details>
 
@@ -199,26 +204,34 @@ Step-by-step <a href="https://www.youtube.com/@AgriciDaniel">Claude Code tutoria
 Messages left on the ground by other travelers. Click to read.
 
 <details>
-<summary><picture><img src="./assets/rune.svg" height="24" alt="" /></picture> <b>Try /seo audit before writing anything</b></summary>
+<summary><picture><img src="./assets/msg-audit.svg" width="95%" alt="Message: Try /seo audit before writing anything. Click to read." /></picture></summary>
 <br />
+<img src="./assets/msg-audit-play.svg" width="100%" alt="" />
+
 Fix what is broken first. New content on a site with crawl or schema problems is wasted work.
 </details>
 
 <details>
-<summary><picture><img src="./assets/rune.svg" height="24" alt="" /></picture> <b>Hidden path ahead: the free AI Marketing Hub</b></summary>
+<summary><picture><img src="./assets/msg-path.svg" width="95%" alt="Message: Hidden path ahead: the free AI Marketing Hub. Click to read." /></picture></summary>
 <br />
+<img src="./assets/msg-path-play.svg" width="100%" alt="" />
+
 5,900+ members building with Claude Code. Ask questions and share workflows in the <a href="https://www.skool.com/ai-marketing-hub">AI Marketing Hub</a> on Skool.
 </details>
 
 <details>
-<summary><picture><img src="./assets/rune.svg" height="24" alt="" /></picture> <b>Be wary of tools that promise rankings without showing the system</b></summary>
+<summary><picture><img src="./assets/msg-mimic.svg" width="95%" alt="Message: Be wary of tools that promise rankings without showing the system. Click to read." /></picture></summary>
 <br />
+<img src="./assets/msg-mimic-play.svg" width="100%" alt="" />
+
 Every skill here is open source. Read the code, run it, check the output.
 </details>
 
 <details>
-<summary><picture><img src="./assets/rune.svg" height="24" alt="" /></picture> <b>Treasure ahead: Pro</b></summary>
+<summary><picture><img src="./assets/msg-treasure.svg" width="95%" alt="Message: Treasure ahead: Pro. Click to read." /></picture></summary>
 <br />
+<img src="./assets/msg-treasure-play.svg" width="100%" alt="" />
+
 <a href="https://www.skool.com/ai-marketing-hub-pro">AI Marketing Hub Pro</a> has 40+ AI workflows, 30+ AI SEO and marketing tools, and live calls.
 </details>
 
