@@ -55,24 +55,24 @@ Pick the one that sounds like you. Each class comes with its skill.
     <td width="50%" valign="top">
       <a href="https://github.com/AgriciDaniel/claude-seo"><img src="./assets/card-claude-seo.svg" width="100%" alt="claude-seo, the Claude Code SEO skill and AI SEO tool" /></a>
       <p><b><a href="https://github.com/AgriciDaniel/claude-seo">claude-seo</a></b>: AI SEO for Claude Code: technical audits, schema, E-E-A-T, local SEO and GEO for AI search.
-      <a href="https://github.com/AgriciDaniel/claude-seo/stargazers"><img src="https://img.shields.io/github/stars/AgriciDaniel/claude-seo?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzFhMWMyYyI%2BPHBhdGggZD0iTTEyIDEuNWwzLjEgNi42IDcuMi45LTUuMyA1IDEuNCA3LjFMMTIgMTcuNmwtNi40IDMuNUw3IDE0bC01LjMtNSA3LjItLjl6Ii8%2BPC9zdmc%2B&label=stars&labelColor=ffcd75&color=ffcd75" alt="claude-seo GitHub stars" /></a></p>
+      <a href="https://github.com/AgriciDaniel/claude-seo/stargazers"><img src="https://img.shields.io/badge/stars-19k-ffcd75?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzFhMWMyYyI%2BPHBhdGggZD0iTTEyIDEuNWwzLjEgNi42IDcuMi45LTUuMyA1IDEuNCA3LjFMMTIgMTcuNmwtNi40IDMuNUw3IDE0bC01LjMtNSA3LjItLjl6Ii8%2BPC9zdmc%2B&labelColor=ffcd75" alt="claude-seo GitHub stars" /></a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AgriciDaniel/claude-ads"><img src="./assets/card-claude-ads.svg" width="100%" alt="claude-ads, the Claude Code skill for Google Ads and Meta ads audits" /></a>
       <p><b><a href="https://github.com/AgriciDaniel/claude-ads">claude-ads</a></b>: Google Ads and Meta ads audits across 12 ad platforms, with scored reports.
-      <a href="https://github.com/AgriciDaniel/claude-ads/stargazers"><img src="https://img.shields.io/github/stars/AgriciDaniel/claude-ads?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzFhMWMyYyI%2BPHBhdGggZD0iTTEyIDEuNWwzLjEgNi42IDcuMi45LTUuMyA1IDEuNCA3LjFMMTIgMTcuNmwtNi40IDMuNUw3IDE0bC01LjMtNSA3LjItLjl6Ii8%2BPC9zdmc%2B&label=stars&labelColor=ffcd75&color=ffcd75" alt="claude-ads GitHub stars" /></a></p>
+      <a href="https://github.com/AgriciDaniel/claude-ads/stargazers"><img src="https://img.shields.io/badge/stars-10k-ffcd75?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzFhMWMyYyI%2BPHBhdGggZD0iTTEyIDEuNWwzLjEgNi42IDcuMi45LTUuMyA1IDEuNCA3LjFMMTIgMTcuNmwtNi40IDMuNUw3IDE0bC01LjMtNSA3LjItLjl6Ii8%2BPC9zdmc%2B&labelColor=ffcd75" alt="claude-ads GitHub stars" /></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/AgriciDaniel/claude-blog"><img src="./assets/card-claude-blog.svg" width="100%" alt="claude-blog, the AI blog writer for Claude Code" /></a>
       <p><b><a href="https://github.com/AgriciDaniel/claude-blog">claude-blog</a></b>: AI blog writer that ranks on Google and gets cited in AI search.
-      <a href="https://github.com/AgriciDaniel/claude-blog/stargazers"><img src="https://img.shields.io/github/stars/AgriciDaniel/claude-blog?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzFhMWMyYyI%2BPHBhdGggZD0iTTEyIDEuNWwzLjEgNi42IDcuMi45LTUuMyA1IDEuNCA3LjFMMTIgMTcuNmwtNi40IDMuNUw3IDE0bC01LjMtNSA3LjItLjl6Ii8%2BPC9zdmc%2B&label=stars&labelColor=ffcd75&color=ffcd75" alt="claude-blog GitHub stars" /></a></p>
+      <a href="https://github.com/AgriciDaniel/claude-blog/stargazers"><img src="https://img.shields.io/badge/stars-2.4k-ffcd75?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzFhMWMyYyI%2BPHBhdGggZD0iTTEyIDEuNWwzLjEgNi42IDcuMi45LTUuMyA1IDEuNCA3LjFMMTIgMTcuNmwtNi40IDMuNUw3IDE0bC01LjMtNSA3LjItLjl6Ii8%2BPC9zdmc%2B&labelColor=ffcd75" alt="claude-blog GitHub stars" /></a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/AgriciDaniel/claude-obsidian"><img src="./assets/card-claude-obsidian.svg" width="100%" alt="claude-obsidian, an AI second brain for Obsidian and Claude Code" /></a>
       <p><b><a href="https://github.com/AgriciDaniel/claude-obsidian">claude-obsidian</a></b>: AI second brain for Obsidian. Drop in any source, Claude links and files it.
-      <a href="https://github.com/AgriciDaniel/claude-obsidian/stargazers"><img src="https://img.shields.io/github/stars/AgriciDaniel/claude-obsidian?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzFhMWMyYyI%2BPHBhdGggZD0iTTEyIDEuNWwzLjEgNi42IDcuMi45LTUuMyA1IDEuNCA3LjFMMTIgMTcuNmwtNi40IDMuNUw3IDE0bC01LjMtNSA3LjItLjl6Ii8%2BPC9zdmc%2B&label=stars&labelColor=ffcd75&color=ffcd75" alt="claude-obsidian GitHub stars" /></a></p>
+      <a href="https://github.com/AgriciDaniel/claude-obsidian/stargazers"><img src="https://img.shields.io/badge/stars-16k-ffcd75?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzFhMWMyYyI%2BPHBhdGggZD0iTTEyIDEuNWwzLjEgNi42IDcuMi45LTUuMyA1IDEuNCA3LjFMMTIgMTcuNmwtNi40IDMuNUw3IDE0bC01LjMtNSA3LjItLjl6Ii8%2BPC9zdmc%2B&labelColor=ffcd75" alt="claude-obsidian GitHub stars" /></a></p>
     </td>
   </tr>
 </table>
