@@ -7,9 +7,9 @@
 -->
 
 <details>
-<summary><picture><img src="./assets/hero.svg" width="100%" alt="Agrici Daniel, maker of claude-seo and claude-ads: open-source Claude Code skills for AI SEO, Google Ads and Meta ads. Join AI Marketing Hub Pro on Skool. Click to light the bonfire." /></picture></summary>
+<summary><picture><img src="./assets/hero.svg" width="1200" height="540" alt="Agrici Daniel, maker of claude-seo and claude-ads: open-source Claude Code skills for AI SEO, Google Ads and Meta ads. Join AI Marketing Hub Pro on Skool. Click to light the bonfire." /></picture></summary>
 <br />
-<img src="./assets/bonfire-lit.svg" width="100%" alt="Bonfire lit. Progress saved." />
+<img src="./assets/bonfire-lit.svg" width="1200" height="420" alt="Bonfire lit. Progress saved." />
 
 **Bonfire menu**
 
@@ -27,9 +27,9 @@
 </p>
 
 <details>
-<summary><picture><img src="./assets/divider-party.svg" width="100%" alt="Search quest: the party beats spam, a 404 and an AI Overview, then the Google core update, ticking off tasks and climbing to rank 1. Click to join the party." /></picture></summary>
+<summary><picture><img src="./assets/divider-party.svg" width="1200" height="120" alt="Search quest: the party beats spam, a 404 and an AI Overview, then the Google core update, ticking off tasks and climbing to rank 1. Click to join the party." /></picture></summary>
 <br />
-<a href="https://www.skool.com/ai-marketing-hub"><img src="./assets/party-recruit.svg" width="100%" alt="Training grounds: AI Marketing Hub members practise SEO, ads and AI search. Free on Skool, 5,900+ members." /></a>
+<a href="https://www.skool.com/ai-marketing-hub"><img src="./assets/party-recruit.svg" width="1200" height="320" alt="Training grounds: AI Marketing Hub members practise SEO, ads and AI search. Free on Skool, 5,900+ members." /></a>
 
 **Join the party.** The free [AI Marketing Hub](https://www.skool.com/ai-marketing-hub) on Skool: 5,900+ members building with Claude Code. Ask questions, share workflows, get help when a skill breaks.
 
@@ -53,21 +53,21 @@ Pick the one that sounds like you. Each class comes with its skill.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/AgriciDaniel/claude-seo"><img src="./assets/card-claude-seo.svg" width="100%" alt="claude-seo, the Claude Code SEO skill and AI SEO tool" /></a>
+      <a href="https://github.com/AgriciDaniel/claude-seo"><img src="./assets/card-claude-seo.svg" width="600" height="210" alt="claude-seo, the Claude Code SEO skill and AI SEO tool" /></a>
       <p><b><a href="https://github.com/AgriciDaniel/claude-seo">claude-seo</a></b>: AI SEO for Claude Code: technical audits, schema, E-E-A-T, local SEO and GEO for AI search.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/AgriciDaniel/claude-ads"><img src="./assets/card-claude-ads.svg" width="100%" alt="claude-ads, the Claude Code skill for Google Ads and Meta ads audits" /></a>
+      <a href="https://github.com/AgriciDaniel/claude-ads"><img src="./assets/card-claude-ads.svg" width="600" height="210" alt="claude-ads, the Claude Code skill for Google Ads and Meta ads audits" /></a>
       <p><b><a href="https://github.com/AgriciDaniel/claude-ads">claude-ads</a></b>: Google Ads and Meta ads audits across 12 ad platforms, with scored reports.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/AgriciDaniel/claude-blog"><img src="./assets/card-claude-blog.svg" width="100%" alt="claude-blog, the AI blog writer for Claude Code" /></a>
+      <a href="https://github.com/AgriciDaniel/claude-blog"><img src="./assets/card-claude-blog.svg" width="600" height="210" alt="claude-blog, the AI blog writer for Claude Code" /></a>
       <p><b><a href="https://github.com/AgriciDaniel/claude-blog">claude-blog</a></b>: AI blog writer that ranks on Google and gets cited in AI search.</p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/AgriciDaniel/claude-obsidian"><img src="./assets/card-claude-obsidian.svg" width="100%" alt="claude-obsidian, an AI second brain for Obsidian and Claude Code" /></a>
+      <a href="https://github.com/AgriciDaniel/claude-obsidian"><img src="./assets/card-claude-obsidian.svg" width="600" height="210" alt="claude-obsidian, an AI second brain for Obsidian and Claude Code" /></a>
       <p><b><a href="https://github.com/AgriciDaniel/claude-obsidian">claude-obsidian</a></b>: AI second brain for Obsidian. Drop in any source, Claude links and files it.</p>
     </td>
   </tr>
@@ -76,7 +76,7 @@ Pick the one that sounds like you. Each class comes with its skill.
 <details>
 <summary><picture><img src="./assets/loot-chest.svg" width="95%" alt="More open-source AI marketing tools: open the chest" /></picture></summary>
 <br />
-<img src="./assets/loot-open.svg" width="100%" alt="Items found: 9 more open-source AI marketing tools" />
+<img src="./assets/loot-open.svg" width="1200" height="350" alt="Items found: 9 more open-source AI marketing tools" />
 
 - **[banana-claude](https://github.com/AgriciDaniel/banana-claude)**: AI image generation skill for Claude Code, powered by Gemini.
 - **[compass](https://github.com/AgriciDaniel/compass)**: Run your whole life out of Obsidian. Daily questions, planning, habits, tasks and an AI assistant in the vault.
@@ -95,7 +95,7 @@ Pick the one that sounds like you. Each class comes with its skill.
 <details>
 <summary><picture><img src="./assets/fog-gate.svg" width="95%" alt="Enter the fog: boss ahead" /></picture></summary>
 <br />
-<a href="https://www.skool.com/ai-marketing-hub-pro"><img src="./assets/boss.svg" width="100%" alt="Boss fight: claude-seo, claude-ads and claude-blog defeat a $10K/month agency retainer" /></a>
+<a href="https://www.skool.com/ai-marketing-hub-pro"><img src="./assets/boss.svg" width="1200" height="470" alt="Boss fight: claude-seo, claude-ads and claude-blog defeat a $10K/month agency retainer" /></a>
 
 **The $10K/mo Agency Retainer.** Weakness: open-source skills you run yourself. claude-seo, claude-ads and claude-blog do the audits, the ads checks and the posts. MIT licensed.
 
@@ -150,7 +150,7 @@ Step-by-step <a href="https://www.youtube.com/@AgriciDaniel">Claude Code tutoria
 
 ## <picture><img src="./assets/h-stack.svg" height="30" alt="" /></picture> Tech Stack
 
-<img src="./assets/stack.svg" width="100%" alt="Tech stack: Claude Code, Codex, Gemini, MCP, Python, Obsidian, Google Ads, Meta Ads, WordPress, n8n, FFmpeg, TypeScript, React, PHP, Bash, YouTube" />
+<img src="./assets/stack.svg" width="1200" height="430" alt="Tech stack: Claude Code, Codex, Gemini, MCP, Python, Obsidian, Google Ads, Meta Ads, WordPress, n8n, FFmpeg, TypeScript, React, PHP, Bash, YouTube" />
 
 ## <picture><img src="./assets/h-connect.svg" height="30" alt="" /></picture> Connect
 
