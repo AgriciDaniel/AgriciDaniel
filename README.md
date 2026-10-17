@@ -27,7 +27,7 @@
 </p>
 
 <details>
-<summary><picture><img src="./assets/divider-party.svg" width="100%" alt="The party fights through mobs to the invoice boss. Click to join the party." /></picture></summary>
+<summary><picture><img src="./assets/divider-party.svg" width="100%" alt="Recruitment run: the party picks up new members on the way to the AI Marketing Hub guild hall. Press to join the party." /></picture></summary>
 <br />
 <a href="https://www.skool.com/ai-marketing-hub"><img src="./assets/party-recruit.svg" width="100%" alt="Party recruiting: AI Marketing Hub, free on Skool, 5,900+ members" /></a>
 
