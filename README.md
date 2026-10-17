@@ -7,7 +7,7 @@
 -->
 
 <details>
-<summary><picture><img src="./assets/hero.svg" width="1200" height="540" alt="Agrici Daniel, maker of claude-seo and claude-ads: open-source Claude Code skills for AI SEO, Google Ads and Meta ads. Join AI Marketing Hub Pro on Skool. Click to light the bonfire." /></picture></summary>
+<summary><a name="hero"><img src="./assets/hero.svg" width="1200" height="540" alt="Agrici Daniel, maker of claude-seo and claude-ads: open-source Claude Code skills for AI SEO, Google Ads and Meta ads. Join AI Marketing Hub Pro on Skool. Click to light the bonfire." /></a></summary>
 <br />
 <img src="./assets/bonfire-lit.svg" width="1200" height="420" alt="Bonfire lit. Progress saved." />
 
@@ -27,7 +27,7 @@
 </p>
 
 <details>
-<summary><picture><img src="./assets/divider-party.svg" width="1200" height="120" alt="Search quest: the party beats spam, a 404 and an AI Overview, then the Google core update, ticking off tasks and climbing to rank 1. Click to join the party." /></picture></summary>
+<summary><a name="divider-party"><img src="./assets/divider-party.svg" width="1200" height="120" alt="Search quest: the party beats spam, a 404 and an AI Overview, then the Google core update, ticking off tasks and climbing to rank 1. Click to join the party." /></a></summary>
 <br />
 <a href="https://www.skool.com/ai-marketing-hub"><img src="./assets/party-recruit.svg" width="1200" height="320" alt="Training grounds: AI Marketing Hub members practise SEO, ads and AI search. Free on Skool, 5,900+ members." /></a>
 
@@ -36,7 +36,7 @@
 <a href="https://www.skool.com/ai-marketing-hub"><img src="./assets/btn-hub.svg" height="52" alt="Join the free AI Marketing Hub on Skool" /></a>
 </details>
 
-## <picture><img src="./assets/h-about.svg" height="30" alt="" /></picture> About Me
+## <a name="h-about"><img src="./assets/h-about.svg" width="31" height="30" alt="" /></a> About Me
 
 AI marketing systems architect. I build free, open-source Claude Code skills for SEO, paid ads and content. Each one is a ready-made workflow: install it, point it at your site or ad account, and it does the work.
 
@@ -46,7 +46,7 @@ They cover technical SEO, local SEO, keyword research, generative engine optimiz
 
 New to it? Start with my [Claude Code tutorial videos on YouTube](https://www.youtube.com/@AgriciDaniel).
 
-## <picture><img src="./assets/h-skills.svg" height="30" alt="" /></picture> Claude Code Skills: Choose Your Class
+## <a name="h-skills"><img src="./assets/h-skills.svg" width="30" height="30" alt="" /></a> Claude Code Skills: Choose Your Class
 
 Pick the one that sounds like you. Each class comes with its skill.
 
@@ -90,7 +90,7 @@ Pick the one that sounds like you. Each class comes with its skill.
 
 </details>
 
-## <picture><img src="./assets/h-boss.svg" height="30" alt="" /></picture> Boss Fight
+## <a name="h-boss"><img src="./assets/h-boss.svg" width="30" height="30" alt="" /></a> Boss Fight
 
 <details>
 <summary><picture><img src="./assets/fog-gate.svg" width="95%" alt="Enter the fog: boss ahead" /></picture></summary>
@@ -104,7 +104,7 @@ Pick the one that sounds like you. Each class comes with its skill.
 <a href="https://www.skool.com/ai-marketing-hub-pro"><img src="./assets/btn-pro.svg" height="52" alt="Join AI Marketing Hub Pro on Skool" /></a>
 </details>
 
-## <picture><img src="./assets/h-faq.svg" height="30" alt="" /></picture> FAQ
+## <a name="h-faq"><img src="./assets/h-faq.svg" width="30" height="30" alt="" /></a> FAQ
 
 <details>
 <summary><b>Who is Agrici Daniel?</b></summary>
@@ -148,11 +148,11 @@ Install claude-seo and run <code>/seo audit</code> on your site. It checks techn
 Step-by-step <a href="https://www.youtube.com/@AgriciDaniel">Claude Code tutorial videos</a> on YouTube, and questions answered in the free <a href="https://www.skool.com/ai-marketing-hub">AI Marketing Hub</a> community on Skool.
 </details>
 
-## <picture><img src="./assets/h-stack.svg" height="30" alt="" /></picture> Tech Stack
+## <a name="h-stack"><img src="./assets/h-stack.svg" width="30" height="30" alt="" /></a> Tech Stack
 
 <img src="./assets/stack.svg" width="1200" height="430" alt="Tech stack: Claude Code, Codex, Gemini, MCP, Python, Obsidian, Google Ads, Meta Ads, WordPress, n8n, FFmpeg, TypeScript, React, PHP, Bash, YouTube" />
 
-## <picture><img src="./assets/h-connect.svg" height="30" alt="" /></picture> Connect
+## <a name="h-connect"><img src="./assets/h-connect.svg" width="30" height="30" alt="" /></a> Connect
 
 <p align="center">
   <a href="https://agricidaniel.com"><img src="./assets/btn-website.svg" height="52" alt="agricidaniel.com, Agrici Daniel's website and blog" /></a>
