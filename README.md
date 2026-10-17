@@ -18,7 +18,7 @@
 - **Travel**: <a href="https://www.youtube.com/@AgriciDaniel">YouTube</a> or <a href="https://agricidaniel.com">agricidaniel.com</a>
 - **Kindle**: star a repo you use, it keeps the fire going
 
-<a href="https://www.skool.com/ai-marketing-hub-pro"><img src="./assets/btn-pro.svg" height="52" alt="Join AI Marketing Hub Pro on Skool" /></a>
+<a href="https://www.skool.com/ai-marketing-hub-pro"><img src="./assets/btn-pro.svg" width="183" height="52" alt="Join AI Marketing Hub Pro on Skool" /></a>
 </details>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 **Join the party.** The free [AI Marketing Hub](https://www.skool.com/ai-marketing-hub) on Skool: 5,900+ members building with Claude Code. Ask questions, share workflows, get help when a skill breaks.
 
-<a href="https://www.skool.com/ai-marketing-hub"><img src="./assets/btn-hub.svg" height="52" alt="Join the free AI Marketing Hub on Skool" /></a>
+<a href="https://www.skool.com/ai-marketing-hub"><img src="./assets/btn-hub.svg" width="248" height="52" alt="Join the free AI Marketing Hub on Skool" /></a>
 </details>
 
 ## <a name="h-about"><img src="./assets/h-about.svg" width="31" height="30" alt="" /></a> About Me
@@ -101,7 +101,7 @@ Pick the one that sounds like you. Each class comes with its skill.
 
 **Want the full build?** <a href="https://www.skool.com/ai-marketing-hub-pro"><b>AI Marketing Hub Pro</b></a> has 40+ AI workflows, 30+ AI SEO and marketing tools, and 100+ live calls where we build them together.
 
-<a href="https://www.skool.com/ai-marketing-hub-pro"><img src="./assets/btn-pro.svg" height="52" alt="Join AI Marketing Hub Pro on Skool" /></a>
+<a href="https://www.skool.com/ai-marketing-hub-pro"><img src="./assets/btn-pro.svg" width="183" height="52" alt="Join AI Marketing Hub Pro on Skool" /></a>
 </details>
 
 ## <a name="h-faq"><img src="./assets/h-faq.svg" width="30" height="30" alt="" /></a> FAQ
@@ -155,10 +155,10 @@ Step-by-step <a href="https://www.youtube.com/@AgriciDaniel">Claude Code tutoria
 ## <a name="h-connect"><img src="./assets/h-connect.svg" width="30" height="30" alt="" /></a> Connect
 
 <p align="center">
-  <a href="https://agricidaniel.com"><img src="./assets/btn-website.svg" height="52" alt="agricidaniel.com, Agrici Daniel's website and blog" /></a>
-  <a href="https://linkedin.com/in/daniel-agrici"><img src="./assets/btn-linkedin.svg" height="52" alt="Agrici Daniel on LinkedIn" /></a>
-  <a href="https://www.youtube.com/@AgriciDaniel"><img src="./assets/btn-youtube.svg" height="52" alt="Claude Code tutorial videos on YouTube, @AgriciDaniel" /></a>
-  <a href="https://www.skool.com/ai-marketing-hub"><img src="./assets/btn-hub.svg" height="52" alt="AI Marketing Hub, free AI marketing community on Skool" /></a>
-  <a href="https://www.skool.com/ai-marketing-hub-pro"><img src="./assets/btn-pro.svg" height="52" alt="Join AI Marketing Hub Pro on Skool" /></a>
+  <a href="https://agricidaniel.com"><img src="./assets/btn-website.svg" width="160" height="52" alt="agricidaniel.com, Agrici Daniel's website and blog" /></a>
+  <a href="https://linkedin.com/in/daniel-agrici"><img src="./assets/btn-linkedin.svg" width="163" height="52" alt="Agrici Daniel on LinkedIn" /></a>
+  <a href="https://www.youtube.com/@AgriciDaniel"><img src="./assets/btn-youtube.svg" width="162" height="52" alt="Claude Code tutorial videos on YouTube, @AgriciDaniel" /></a>
+  <a href="https://www.skool.com/ai-marketing-hub"><img src="./assets/btn-hub.svg" width="248" height="52" alt="AI Marketing Hub, free AI marketing community on Skool" /></a>
+  <a href="https://www.skool.com/ai-marketing-hub-pro"><img src="./assets/btn-pro.svg" width="183" height="52" alt="Join AI Marketing Hub Pro on Skool" /></a>
 </p>
 
