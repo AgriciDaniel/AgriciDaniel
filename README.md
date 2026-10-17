@@ -27,7 +27,7 @@
 </p>
 
 <details>
-<summary><picture><img src="./assets/divider-party.svg" width="100%" alt="Search stage: the party dodges and beats the Panda and Penguin updates, the Spam Update and an AI Overview, survives the Core Update and climbs to rank 1. Press to join the party." /></picture></summary>
+<summary><picture><img src="./assets/divider-party.svg" width="100%" alt="The party fights through mobs to the invoice boss. Click to join the party." /></picture></summary>
 <br />
 <a href="https://www.skool.com/ai-marketing-hub"><img src="./assets/party-recruit.svg" width="100%" alt="Training grounds: AI Marketing Hub members practise SEO, ads and AI search. Free on Skool, 5,900+ members." /></a>
 
