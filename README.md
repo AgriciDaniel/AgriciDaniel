@@ -36,7 +36,7 @@
 <a href="https://www.skool.com/ai-marketing-hub"><img src="./assets/btn-hub.svg" height="52" alt="Join the free AI Marketing Hub on Skool" /></a>
 </details>
 
-## <img src="./assets/h-about.svg" height="30" alt="" /> About Me
+## <picture><img src="./assets/h-about.svg" height="30" alt="" /></picture> About Me
 
 AI marketing systems architect. I build free, open-source Claude Code skills for SEO, paid ads and content. Each one is a ready-made workflow: install it, point it at your site or ad account, and it does the work.
 
@@ -46,7 +46,7 @@ They cover technical SEO, local SEO, keyword research, generative engine optimiz
 
 New to it? Start with my [Claude Code tutorial videos on YouTube](https://www.youtube.com/@AgriciDaniel).
 
-## <img src="./assets/h-skills.svg" height="30" alt="" /> Claude Code Skills: Choose Your Class
+## <picture><img src="./assets/h-skills.svg" height="30" alt="" /></picture> Claude Code Skills: Choose Your Class
 
 Pick the one that sounds like you. Each class comes with its skill.
 
@@ -90,7 +90,7 @@ Pick the one that sounds like you. Each class comes with its skill.
 
 </details>
 
-## <img src="./assets/h-boss.svg" height="30" alt="" /> Boss Fight
+## <picture><img src="./assets/h-boss.svg" height="30" alt="" /></picture> Boss Fight
 
 <details>
 <summary><picture><img src="./assets/fog-gate.svg" width="95%" alt="Enter the fog: boss ahead" /></picture></summary>
@@ -104,7 +104,19 @@ Pick the one that sounds like you. Each class comes with its skill.
 <a href="https://www.skool.com/ai-marketing-hub-pro"><img src="./assets/btn-pro.svg" height="52" alt="Join AI Marketing Hub Pro on Skool" /></a>
 </details>
 
-## <img src="./assets/h-faq.svg" height="30" alt="" /> FAQ
+## <picture><img src="./assets/h-faq.svg" height="30" alt="" /></picture> FAQ
+
+<details>
+<summary><b>Who is Agrici Daniel?</b></summary>
+<br />
+An AI marketing systems architect who builds free, open-source Claude Code skills: claude-seo, claude-ads, claude-blog and claude-obsidian. He runs the free <a href="https://www.skool.com/ai-marketing-hub">AI Marketing Hub</a> and <a href="https://www.skool.com/ai-marketing-hub-pro">AI Marketing Hub Pro</a> on Skool, and teaches Claude Code on <a href="https://www.youtube.com/@AgriciDaniel">YouTube</a>. Website: <a href="https://agricidaniel.com">agricidaniel.com</a>.
+</details>
+
+<details>
+<summary><b>What is AI Marketing Hub?</b></summary>
+<br />
+A free Skool community of 5,900+ members who build AI marketing workflows with Claude Code. <a href="https://www.skool.com/ai-marketing-hub-pro">AI Marketing Hub Pro</a> adds 40+ AI workflows, 30+ AI SEO and marketing tools and live build calls.
+</details>
 
 <details>
 <summary><b>What are Claude Code skills?</b></summary>
@@ -136,11 +148,11 @@ Install claude-seo and run <code>/seo audit</code> on your site. It checks techn
 Step-by-step <a href="https://www.youtube.com/@AgriciDaniel">Claude Code tutorial videos</a> on YouTube, and questions answered in the free <a href="https://www.skool.com/ai-marketing-hub">AI Marketing Hub</a> community on Skool.
 </details>
 
-## <img src="./assets/h-stack.svg" height="30" alt="" /> Tech Stack
+## <picture><img src="./assets/h-stack.svg" height="30" alt="" /></picture> Tech Stack
 
 <img src="./assets/stack.svg" width="100%" alt="Tech stack: Claude Code, Codex, Gemini, MCP, Python, Obsidian, Google Ads, Meta Ads, WordPress, n8n, FFmpeg, TypeScript, React, PHP, Bash, YouTube" />
 
-## <img src="./assets/h-connect.svg" height="30" alt="" /> Connect
+## <picture><img src="./assets/h-connect.svg" height="30" alt="" /></picture> Connect
 
 <p align="center">
   <a href="https://agricidaniel.com"><img src="./assets/btn-website.svg" height="52" alt="agricidaniel.com, Agrici Daniel's website and blog" /></a>
