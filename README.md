@@ -27,7 +27,7 @@
 </p>
 
 <details>
-<summary><picture><img src="./assets/divider-party.svg" width="100%" alt="Quest run: the party beats Bounce Rate, the 404 Ghost and Ad Fatigue, survives an algorithm update and levels up. Press to join the party." /></picture></summary>
+<summary><picture><img src="./assets/divider-party.svg" width="100%" alt="Arcade stage: the party beats marketing mobs like Bounce Rate, a 404 Ghost and Ad Fatigue, then clears the Algo Update. Press to join the party." /></picture></summary>
 <br />
 <a href="https://www.skool.com/ai-marketing-hub"><img src="./assets/party-recruit.svg" width="100%" alt="Training grounds: AI Marketing Hub members practise SEO, ads and AI search. Free on Skool, 5,900+ members." /></a>
 
