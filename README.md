@@ -9,16 +9,17 @@
 <details>
 <summary><a name="hero"><img src="./assets/hero.svg" width="1200" height="540" alt="Agrici Daniel, maker of claude-seo and claude-ads: open-source Claude Code skills for AI SEO, Google Ads and Meta ads. The knight and the Homies wait by an unlit bonfire. Click to light the bonfire." /></a></summary>
 <br />
-<img src="./assets/bonfire-lit.svg" width="1200" height="432" alt="Bonfire lit. Progress saved." />
+<a href="https://www.skool.com/ai-marketing-hub-pro"><img src="./assets/bonfire-lit.svg" width="1200" height="432" alt="Bonfire lit. Progress saved. Join AI Marketing Hub Pro." /></a>
 
 **Bonfire menu**
 
 - **Level up**: join <a href="https://www.skool.com/ai-marketing-hub-pro">AI Marketing Hub Pro</a>, 40+ AI workflows, 30+ AI SEO and marketing tools and live calls
+- **Rest**: join the free <a href="https://www.skool.com/ai-marketing-hub">AI Marketing Hub</a>, 6,000+ members
 - **Attune skills**: install <a href="https://github.com/AgriciDaniel/claude-seo">claude-seo</a>, <a href="https://github.com/AgriciDaniel/claude-ads">claude-ads</a> or <a href="https://github.com/AgriciDaniel/claude-blog">claude-blog</a>
 - **Travel**: <a href="https://www.youtube.com/@AgriciDaniel">YouTube</a> or <a href="https://agricidaniel.com">agricidaniel.com</a>
 - **Kindle**: star a repo you use, it keeps the fire going
 
-<a href="https://www.skool.com/ai-marketing-hub-pro"><img src="./assets/btn-pro.svg" width="183" height="52" alt="Join AI Marketing Hub Pro on Skool" /></a>
+<a href="https://www.skool.com/ai-marketing-hub"><img src="./assets/btn-hub.svg" width="248" height="52" alt="Join the free AI Marketing Hub on Skool" /></a> <a href="https://www.skool.com/ai-marketing-hub-pro"><img src="./assets/btn-pro.svg" width="183" height="52" alt="Join AI Marketing Hub Pro on Skool" /></a>
 </details>
 
 <p align="center">
