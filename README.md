@@ -50,7 +50,7 @@ They cover technical SEO, local SEO, keyword research, generative engine optimiz
 
 New to it? Start with my [tutorial videos on YouTube](https://www.youtube.com/@AgriciDaniel).
 
-## <a name="h-skills"><img src="./assets/h-skills.svg" width="30" height="30" alt="" /></a> Claude Code Skills: Choose Your Class
+## <a name="h-skills"><img src="./assets/h-skills.svg" width="30" height="30" alt="" /></a> Skills &amp; Vaults: Choose Your Class
 
 Pick the one that sounds like you. Each class comes with its skill.
 
